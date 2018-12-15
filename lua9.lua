@@ -1,3 +1,5 @@
+--Ouput: https://en.wikipedia.org/wiki/User:Robingan7/Sandbox/Wikidata
+--Task Information: https://en.wikipedia.org/wiki/User:RexxS/GCI-Task09
 local p={}
 
 p.names = function(frame)
