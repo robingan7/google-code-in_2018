@@ -1,3 +1,5 @@
+--Ouput: https://en.wikipedia.org/wiki/User:Robingan7/Sandbox/Names
+--Task information:  https://en.wikipedia.org/wiki/User:RexxS/GCI-Task08
 local p={}
 
 p.names = function(frame)
