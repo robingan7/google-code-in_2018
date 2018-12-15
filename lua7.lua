@@ -1,3 +1,5 @@
+--Output: https://en.wikipedia.org/wiki/User:Robingan7/Sandbox/Dates
+--Task information: https://en.wikipedia.org/wiki/User:RexxS/GCI-Task07
 local p = {}
 
 
